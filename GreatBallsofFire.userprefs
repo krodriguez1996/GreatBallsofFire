@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Observing.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Factory.cs" Line="25" Column="34" />
+      <File FileName="Assets/Scripts/DestroybyContact.cs" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/Observing.cs" Line="26" Column="44" />
+      <File FileName="Assets/Scripts/SphereGravity.cs" Line="32" Column="38" />
+      <File FileName="Assets/Scripts/Timer.cs" Line="9" Column="22" />
+      <File FileName="../Space Shooter/Assets/Scripts/PlayerController.cs" Line="45" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
